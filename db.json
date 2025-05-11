@@ -4,27 +4,63 @@
 "videos": [
   {
       "id": 1,
-      "title": "O labirinto do Logcat",
+      "title": "Foo Fighters - Everlong (Live At Wembley Stadium, 2008)",
       "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
-      "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+      "link": "https://www.youtube.com/watch?v=NWU33fvPxd0"
   },
   {
       "id": 2,
-      "title": "Um componente no espaço",
+      "title": "Foo Fighters - My Hero (Live at Madison Square Garden June 20, 2021)",
       "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img1.png",
-      "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+      "link": "https://www.youtube.com/watch?v=9TPdGxWGOAM"
   },
   {
       "id": 3,
-      "title": "O poderoso JavaScript",
+      "title": "Foo Fighters - The Pretender (Live At Wembley Stadium, 2008)",
       "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img4.png",
-      "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+      "link": "https://www.youtube.com/watch?v=KvrN6f95GOw"
   },
   {
       "id": 4,
-      "title": "Dart, o Caçador de Andróides",
+      "title": "Foo Fighters - Times Like These (Live at Madison Square Garden June 20, 2021)",
       "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
-      "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+      "link": "https://www.youtube.com/watch?v=LGv-zi5mwaQ"
+  },
+  {
+      "id": 5,
+      "title": "Foo Fighters - Best Of You (Live At Wembley Stadium, 2008)",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=qnIwCsQYoEc"
+  },
+  {
+      "id": 6,
+      "title": "Learn to Fly – Live at Madison Square Garden (2021)",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=uaR5ZjZxbQw"
+  },
+  {
+      "id": 7,
+      "title": "Foo Fighters - All My Life (Glastonbury 2023)",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=ZZ9AEaVvUok"
+  },
+  {
+      "id": 8,
+      "title": "Foo Fighters - Monkey Wrench (Live at Lollapalooza, Chile, 2022)",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=yolwj1jnxkg"
+  },
+  {
+      "id": 9,
+      "title": "Foo Fighters - Breakout Live @ VHQ 2002",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=QzD4sYhEjK8"
+  },
+  {
+      "id": 10,
+      "title": "Walk – Live at Madison Square Garden (2021)",
+      "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+      "link": "https://www.youtube.com/watch?v=RZzScLMt4y0"
   }
 ]
 
